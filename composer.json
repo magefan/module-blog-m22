@@ -1,0 +1,20 @@
+{
+    "name": "magefan/module-blog-m22",
+    "description": "Fixes for Blog on Magento 2.2.x",
+    "require": {
+        "php": "~5.6.5 || >=7.0",
+        "magefan/module-blog": "*"
+    },
+    "type": "magento2-module",
+    "version": "2.0.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "autoload": {
+        "files": [ "registration.php" ],
+        "psr-4": {
+            "Magefan\\BlogM22\\": ""
+        }
+    }
+}
