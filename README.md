@@ -4,7 +4,6 @@
 [![Latest Stable Version](https://poser.pugx.org/magefan/module-blog/v/stable)](https://packagist.org/packages/magefan/module-blog)
 
 This Magento 2 module fix issue with blog posts media gallery in [Magefan Blog Extension](https://github.com/magefan/module-blog)
-This Magento 2 Blog module allows you to create a full-fledged blog on your Magento 2 Store.
 
 
 ## Installing via composer
