@@ -17,7 +17,7 @@ php bin/magento setup:di:compile
 php bin/magento setup:static-content:deploy
 ```
 ## Installation Method 2 - Installing using archive
-  * Install the (Magefan Blog Extension)(https://github.com/magefan/module-blog/)  first
+  * Install the [Magefan Blog Extension](https://github.com/magefan/module-blog/)  first
   * Download [ZIP Archive](https://github.com/magefan/module-blog-m22/archive/master.zip)
   * Extract files
   * In your Magento 2 root directory create folder app/code/Magefan/Blog
