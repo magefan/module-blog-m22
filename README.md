@@ -6,11 +6,29 @@
 This Magento 2 module fix issue with blog posts media gallery in [Magefan Blog Extension](https://github.com/magefan/module-blog)
 
 
-## Installing via composer
+## Installation Method 1 - Installing via composer
   * Open command line
   * Using command "cd" navigate to your magento2 root directory
-  * Run command: composer require magefan/module-blog-m22
-
+  * Run commands:
+```
+composer require magefan/module-blog-m22
+php bin/magento setup:upgrade
+php bin/magento setup:di:compile
+php bin/magento setup:static-content:deploy
+```
+## Installation Method 2 - Installing using archive
+  * Install the (Magefan Blog Extension)(https://github.com/magefan/module-blog/)  first
+  * Download [ZIP Archive](https://github.com/magefan/module-blog-m22/archive/master.zip)
+  * Extract files
+  * In your Magento 2 root directory create folder app/code/Magefan/Blog
+  * Copy files and folders from archive to that folder
+  * In command line, using "cd", navigate to your Magento 2 root directory
+  * Run commands:
+```
+php bin/magento setup:upgrade
+php bin/magento setup:di:compile
+php bin/magento setup:static-content:deploy
+```
 
 ## Support
 If you have any issues, please [contact us](mailto:support@magefan.com)
