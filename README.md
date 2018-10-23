@@ -1,4 +1,3 @@
-# Please don't use this extension if you have Magenfan Blog Extension version >= 2.8.3
 # [Magento 2.2.x Blog Extension](https://magefan.com/magento2-blog-extension) by Magefan
 
 [![Total Downloads](https://poser.pugx.org/magefan/module-blog/downloads)](https://packagist.org/packages/magefan/module-blog)
