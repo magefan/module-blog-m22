@@ -3,6 +3,9 @@
 [![Total Downloads](https://poser.pugx.org/magefan/module-blog/downloads)](https://packagist.org/packages/magefan/module-blog)
 [![Latest Stable Version](https://poser.pugx.org/magefan/module-blog/v/stable)](https://packagist.org/packages/magefan/module-blog)
 
+<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+
+
 This Magento 2 module fix issue with blog posts media gallery in [Magefan Blog Extension](https://github.com/magefan/module-blog)
 
 
